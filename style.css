@@ -1,0 +1,74 @@
+.navbar-brand img{
+height: 60px;
+margin-left: 15px;
+}
+.nab{
+    margin-top: 20px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.buy-now-button{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.see-all{
+    text-align: right;
+    color:orange;
+    cursor: pointer;
+}
+
+.card-body{
+    text-align: center;
+}
+.card{
+    margin: 10px;
+    border: none;
+    box-shadow: 50px 5px 10px lightgray;
+    text-align: center;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.cat{
+    padding-top: 50px;
+}
+.card-deck{
+    margin-top: 40px;
+}
+.line{
+    margin-left: 44.5%;
+    padding-bottom: 50px;
+}
+.sm-container{
+    width: 250px;
+    height: 250px;
+    border: none;
+    margin-right: 1200px;
+    box-shadow: 10px 10px 20px rgb(192, 187, 187);
+    padding-top: 50px;
+    border-radius: 0 25px 0 35px ;
+}
+.sm-container-1{
+    width: 230px;
+    height: 250px;
+    box-shadow: 10px 10px 20px rgb(192, 187, 187);
+    border: none;
+    margin-left: 150px;
+    padding-top: 50px;
+    margin-bottom: 45px;
+    border-radius: 25px 0 35px 0;
+   
+}
+.img-fit img {
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
